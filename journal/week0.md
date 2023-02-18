@@ -2,7 +2,7 @@
 
 ## :white_check_mark:  Conceptual Architecture Diagram
 
-![Conceptual Architecture Diagram](assets/Cruddur-Conceptual Diagram.png)
+![Conceptual Architecture Diagram](https://github.com/dygk/aws-bootcamp-cruddur-2023/blob/4f7c0c1717ab5d7c5a46200104a1ae0dc9f04f5e/journal/assets/Cruddur-Conceptual%20Diagram.png)
 
 
 ###
@@ -11,7 +11,7 @@
 
 ## :white_check_mark:  Logical Architecture Diagram
 
-![Logical Architecture Diagram](assets/Cruddur Logical Diagram.png)
+![Logical Architecture Diagram](https://github.com/dygk/aws-bootcamp-cruddur-2023/blob/4f7c0c1717ab5d7c5a46200104a1ae0dc9f04f5e/journal/assets/Cruddur%20Logical%20Diagram.png)
 
 
 
