@@ -20,5 +20,25 @@
 
 
 
+## :white_check_mark:  Create an Admin User
+
+## :white_check_mark:  Use CloudShell
+
+## :white_check_mark:  Generate AWS Credentials
+
+
+## :white_check_mark:  Install AWS CLI
+![cli3](https://user-images.githubusercontent.com/47042467/219878360-273f547c-a90d-4f21-bc97-008f23aa4e79.png)
+
+
+
+## :white_check_mark:  Create a Budget
+![budget2](https://user-images.githubusercontent.com/47042467/219878197-1476cddd-1539-44fd-a332-47bec1c3f489.png)
+
+
+
+
+
+
 
 
