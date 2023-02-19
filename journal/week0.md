@@ -16,7 +16,8 @@
 [Lucidchart Logical Architecture Diagram](https://lucid.app/lucidchart/736292c9-e7f0-4bcf-ad45-6d3d1465ffd1/edit?invitationId=inv_9320dabd-dc1c-48cd-923d-a4a08c83a127)
 
 
-![Logical Architecture Diagram](https://user-images.githubusercontent.com/47042467/219865754-d83fd71a-5e16-42dd-ab3a-229b9009f9be.png)
+![Logical Architecture Diagram](https://user-images.githubusercontent.com/47042467/219946741-5b5ef0de-f650-4988-ad23-28545b546d87.png)
+
 
 
 
