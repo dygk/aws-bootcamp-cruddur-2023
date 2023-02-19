@@ -7,6 +7,10 @@
 
 ![Conceptual Architecture Diagram](https://github.com/dygk/aws-bootcamp-cruddur-2023/blob/4f7c0c1717ab5d7c5a46200104a1ae0dc9f04f5e/journal/assets/Cruddur-Conceptual%20Diagram.png)
 
+## :white_check_mark: Napkin Design
+
+![napkin](https://user-images.githubusercontent.com/47042467/219964222-267619fb-8af9-4899-9ed8-5c835fe67237.jpeg)
+
 
 
 
