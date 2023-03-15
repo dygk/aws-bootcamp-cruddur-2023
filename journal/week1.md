@@ -9,6 +9,17 @@
 
 ![Screenshot 2023-03-10 at 00 51 28](https://user-images.githubusercontent.com/47042467/225101305-dbe36e93-de2c-403e-89d1-6bc416c9bd58.png)
 
+## :white_check_mark:   Document the Notification Endpoint for the OpenAI Document
+
+![Screenshot 2023-03-15 at 23 51 34](https://user-images.githubusercontent.com/47042467/225459144-d8187fe5-3af6-4032-aaed-a01550629215.png)
+![Screenshot 2023-03-15 at 23 52 48](https://user-images.githubusercontent.com/47042467/225459153-2f90fd41-7cc4-4eb8-ad32-e746f8f336b8.png)
+
+## :white_check_mark: Write a Flask Backend Endpoint for Notifications
+
+![Screenshot 2023-03-16 at 00 11 05](https://user-images.githubusercontent.com/47042467/225459509-2386be7b-9368-463a-b2e0-551a760052cf.png)
+
+## :white_check_mark: Write a React Page for Notifications
+![Screenshot 2023-03-16 at 00 35 20](https://user-images.githubusercontent.com/47042467/225459513-dc2d083b-388d-44f8-983c-6a8fdefea2fc.png)
 
 
 # Homework Challenges
