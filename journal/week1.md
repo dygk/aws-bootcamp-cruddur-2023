@@ -21,6 +21,9 @@
 ## :white_check_mark: Write a React Page for Notifications
 ![Screenshot 2023-03-16 at 00 35 20](https://user-images.githubusercontent.com/47042467/225459513-dc2d083b-388d-44f8-983c-6a8fdefea2fc.png)
 
+## :white_check_mark: Run Postgres Container and ensure it works
+
+![Screenshot 2023-03-20 at 00 18 52](https://user-images.githubusercontent.com/47042467/226460750-2390ab61-3c00-4d65-8927-335bcc2edf72.png)
 
 # Homework Challenges
 
